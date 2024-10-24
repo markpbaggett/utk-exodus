@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "utk-exodus"
-version = "0.2.4"
+version = "0.2.5"
 description = "A tool for building import sheets from UTK legacy systems"
 authors = ["Mark Baggett <mbagget1@utk.edu>"]
 readme = "README.md"
